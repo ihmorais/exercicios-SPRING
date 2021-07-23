@@ -1,3 +1,6 @@
+/* A aplicação deverá conter um end-point que retorna
+uma string com os seus objetivos de aprendizagem para
+essa semana.*/
 package br.org.generation.helloworld.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
